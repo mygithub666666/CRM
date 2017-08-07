@@ -9,3 +9,4 @@ master delete
 dev02`
 since github
 github server update
+after set mian mima username
